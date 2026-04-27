@@ -11,7 +11,7 @@
 
 ## About Me :
 
-- 🎓 **2nd Year Computer Engineering Student** at [FIUBA](https://www.fiuba.uba.ar/).
+- 🎓 **2nd Year Computer Engineering Student** at [FIUBA](https://www.fi.uba.ar/).
 - 🛡️/🌐 Cybersecurity and Web Development enthusiast, currently learning the basics.
 - 🐧 Linux beginner, exploring the **Debian** environment.
 - 🏡 Living in **Argentina**.
