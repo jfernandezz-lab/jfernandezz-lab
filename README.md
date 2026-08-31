@@ -13,7 +13,7 @@
 
 - 🎓 **2nd Year Computer Engineering Student** at [FIUBA](https://www.fi.uba.ar/).
 - 🛡️/🌐 Cybersecurity, currently learning the basics.
-- 🐧 Linux beginner, exploring the **Debian** environment.
+- 🐧 Linux beginner, exploring the **Debian** and **Arch** environment.
 - 🏡 Living in **Argentina**.
 - ⚡ **Fun Facts** : 🥋 (BJJ) 🎣 (Fishing) 🏋️ (Calisthenics).
 
